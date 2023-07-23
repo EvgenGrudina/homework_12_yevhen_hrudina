@@ -1,0 +1,2 @@
+
+ganres = '{"results":[{"ganre":"Adventure"},{"ganre":"Family"},{"ganre":"Fantasy"},{"ganre":"Crime"},{"ganre":"Drama"},{"ganre":"Comedy"},{"ganre":"Animation"},{"ganre":"Sci-Fi"},{"ganre":"Sport"},{"ganre":"Action"},{"ganre":"Thriller"},{"ganre":"Mystery"},{"ganre":"Western"},{"ganre":"Romance"},{"ganre":"Biography"},{"ganre":"Horror"},{"ganre":"War"},{"ganre":"Musical"},{"ganre":"History"},{"ganre":"Music"},{"ganre":"Documentary"},{"ganre":"Short"},{"ganre":"Talk-Show"},{"ganre":"Game-Show"},{"ganre":"Reality-TV"},{"ganre":"News"},{"ganre":"Adult"}]}'
